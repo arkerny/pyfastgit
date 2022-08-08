@@ -1,2 +1,3 @@
-# fastgit
-Better Git Python Script
+# pyfastgit
+
+Git by One Press.
